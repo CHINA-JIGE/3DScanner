@@ -1,0 +1,6 @@
+Scan3DScene = 61, 197, 799, 564, 
+GlobalModule = 23, 190, 761, 557, 
+Scan3DPreparation = 111, 94, 835, 461, 
+ExifReader = 175, 175, 902, 542, 
+Scan3DMeshBuffer2 = 25, 25, 818, 445, 
+Scan3DProcessingPipeline2 = 50, 50, 843, 470, Z
